@@ -1,6 +1,6 @@
 # Health Insurance Risks Machine Learning
 
-### Background / Aims Grid
+### Aims Grid
 
 #### Purpose
 - Give decision support and precise cost predictions
