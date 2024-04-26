@@ -1,8 +1,16 @@
-# Evaluación de gastos de una aseguradora
-### Información del autor
-- Martín Michael De Lojo
-- martinmdl42@gmail.com
-- Matemática 3
-- Tecnicatura en Programación Informática
-- Universidad de San Martín
-- Primer cuatrimestre del 2023
+# Health Insurance Risks Machine Learning
+
+### Background / Aims Grid
+
+#### Purpose
+- Give decision support and precise cost predictions
+
+#### Benefited Target
+- Sales Team
+- Customer Service Team
+
+#### Success Criteria (within three months)
+- Raise overall profit by 5%
+
+#### Result
+- Data driven decision making
